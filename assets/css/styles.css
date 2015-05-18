@@ -358,6 +358,18 @@ body {
 	/* Color */
 	background-color: #0099e8;
 }
+.location  {
+	/* Positioning & Display */
+	position: relative;
+	top: -10px;
+	margin-bottom: -10px;
+	/* Text */
+	font: 1.25em 'Droid Sans', sans-serif; /* 16px/10 */
+	color: white;
+	font-weight: 400;
+	/* Color */
+	background-color: #999;
+}
 .bigspacing {
 	padding-left: 155px;
 }
