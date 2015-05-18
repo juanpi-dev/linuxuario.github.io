@@ -456,6 +456,23 @@ footer {
 	padding-bottom: 60px;
 }
 
+footer #sublogoline{
+	text-align: center;
+}
+
+footer #sublogoline h4{
+	font: 2.5em 'Arvo', serif;
+	line-height: 0.66666666em;
+	font-weight: bold;
+	color: #aaa;
+}
+
+footer #sublogoline h5{
+	font: 1.5em 'Arvo', serif;
+	font-weight: normal;
+	color: #ccc;
+}
+
 .comment_form {
 	padding: 40px;
 	background: #dfdcdf url("../img/form-bg.png") repeat;
