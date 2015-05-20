@@ -73,7 +73,7 @@ ul, li {
 	text-align: left;
 }
 .page {
-	padding-bottom: 80px;
+	padding-bottom: 20px;
 }
 
 /*-----------------------------*\
@@ -97,7 +97,7 @@ body {
 */
 	margin: 0 auto;
 	margin-top: 0px;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 	position: relative;
 	/* Color */
 	background: #fff url("../img/container-bg.png");
@@ -172,7 +172,7 @@ body {
 }
 .site_header h1 {
 	/* Text */
-	font: 6em 'Arvo', serif; /* 60px/10 */
+	font: 3em 'Arvo', serif; /* 60px/10 */
 	line-height: 0.66666666em; /* 40px/60px */
 	font-weight: bold;
 	color: #464646;
@@ -185,26 +185,13 @@ body {
 #logoline {
 	text-align: center;
 }
-.site_header h1:before,
-.site_header h1:after {
-	/* Elemants */
-	border-top: 1px solid #d4d4d4;
-	content: " ";
-	/* Positioning & Display */
-	display: block;
-	height: 1px;
-	width: 5%;
-	position: absolute;
-	left: 0;
-	top: 1em;
-	z-index: 1;
-}
+
 .site_header h1:after {
    right: 0;  
    left: auto; 
 }
 .site_header h2 {
-	font: 2.1em 'Arvo', serif; /* 21px/10 */
+	font: 1.7em 'Arvo', serif; /* 21px/10 */
 	font-weight: normal;
 	color: #616161;
 	margin: -4px 0 25px 0;
@@ -321,7 +308,7 @@ body {
 \*-----------------------------*/
 
 .my_expertise {
-	margin-top: 60px;
+	margin-top: 20px;
 }
 .skill_level {
 	margin-top: 10px;
@@ -343,7 +330,7 @@ body {
 \*-----------------------------*/
 
 .experience {
-	margin-top: 60px;
+	margin-top: 20px;
 }
 .experience p, .education p {
 	color: #c0c0c0;
@@ -408,7 +395,7 @@ body {
 \*-----------------------------*/
 
 .education {
-	margin-top: 60px;
+	margin-top: 20px;
 }
 
 /*-----------------------------*\
@@ -416,7 +403,7 @@ body {
 \*-----------------------------*/
 
 .portfolio {
-	margin-top: 60px;
+	margin-top: 20px;
 }
 
 /* galleryContainer */
@@ -468,8 +455,8 @@ body {
 footer {
 	border-top: 1px solid #d4d4d4;
 	background: #f0f4f2 url("../img/contact-bg.png") repeat;
-	padding-top: 60px;
-	padding-bottom: 60px;
+	padding-top: 16px;
+	padding-bottom: 20px;
 }
 
 footer #sublogoline{
@@ -477,7 +464,7 @@ footer #sublogoline{
 }
 
 footer #sublogoline h4{
-	font: 2.5em 'Arvo', serif;
+	font: 1.9em 'Arvo', serif;
 	line-height: 0.66666666em;
 	font-weight: bold;
 	color: #aaa;
