@@ -45,7 +45,16 @@
  * Color Options
  */
 
-.progressbar-inner {
+.progressbar-inner-yellow {
+    background-color: #f2c345;
+}
+.progressbar-inner-blue {
+    background-color: #0099e8;
+}
+.progressbar-inner-yellow {
+    background-color: #f2c345;
+}
+.progressbar-inner-yellow {
     background-color: #f2c345;
 }
 .percent_10 .progressbar-inner {
