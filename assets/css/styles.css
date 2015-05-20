@@ -43,6 +43,10 @@ ul, li {
 	margin: 0;
 	padding: 0; 
 }
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Droid Sans', sans-serif; /* 14px/10 */
+	font-weight: 100;
+}
 .aside_el {
 	text-align: right;
 	padding-right: 5px;
@@ -116,9 +120,9 @@ body {
 	z-index: 5000;
 	/* Color */
 	background: #fff url("../img/container-bg.png");
-	-webkit-box-shadow: 0px 2px 4px rgba(3, 3, 3, 0.2);
-	-moz-box-shadow:	0px 2px 4px rgba(3, 3, 3, 0.2);
-	box-shadow:		 0px 2px 4px rgba(3, 3, 3, 0.2);
+	-webkit-box-shadow: 0px 0px 60px rgba(3, 3, 3, 0.3);
+	-moz-box-shadow:	0px 0px 60px rgba(3, 3, 3, 0.3);
+	box-shadow:		 0px 0px 60px rgba(3, 3, 3, 0.3);
 }
 .site_nav ul {
 	text-align: center;
@@ -166,16 +170,17 @@ body {
 
 .site_header {
 	padding-top: 30px;
-	padding-bottom: 33px;
+	padding-bottom: 30px;
 	position: relative;
 	text-align: center;
+	background-color: #0099e8;
 }
 .site_header h1 {
 	/* Text */
 	font: 3em 'Arvo', serif; /* 60px/10 */
 	line-height: 0.66666666em; /* 40px/60px */
 	font-weight: bold;
-	color: #464646;
+	color: white;
 	/* Positioning & Display */
 	display: inline-block;
 	padding-right: 5px;
@@ -193,8 +198,8 @@ body {
 .site_header h2 {
 	font: 1.7em 'Arvo', serif; /* 21px/10 */
 	font-weight: normal;
-	color: #616161;
-	margin: -4px 0 25px 0;
+	color: white;
+	margin: -4px 0 5px 0;
 }
 .site_header h3 {
 	font: 2.5em 'Droid Sans', sans-serif; /* 25px/10 */
@@ -320,7 +325,6 @@ body {
 	line-height: 1.071428em; /* 15px/14px */
 	color: #464646;
 	text-align: center;
-	font-weight: bold;
 	/* Positioning & Display */
 	margin-top: -10px;
 }
