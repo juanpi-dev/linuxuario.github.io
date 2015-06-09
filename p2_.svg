@@ -16,21 +16,9 @@
    id="svg5807"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="p2.svg">
+   sodipodi:docname="p2_.svg">
   <defs
      id="defs5809">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient7332">
-      <stop
-         style="stop-color:#0099e8;stop-opacity:1;"
-         offset="0"
-         id="stop7334" />
-      <stop
-         style="stop-color:#005885;stop-opacity:1"
-         offset="1"
-         id="stop7336" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient7322">
@@ -160,17 +148,6 @@
        r="67.716797"
        gradientTransform="matrix(1,0,0,0.35675348,0,81.660188)"
        gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7332"
-       id="radialGradient7338"
-       cx="305.73083"
-       cy="586.46619"
-       fx="305.73083"
-       fy="586.46619"
-       r="382.5"
-       gradientTransform="matrix(0.92051593,-0.39070503,0.62325752,1.4684184,-316.97751,-111.63408)"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -181,7 +158,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="402.43762"
-     inkscape:cy="381.93784"
+     inkscape:cy="496.22355"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -190,7 +167,8 @@
      inkscape:window-height="658"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata5812">
     <rdf:RDF>
@@ -199,7 +177,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -209,7 +187,7 @@
      id="layer1"
      transform="translate(0,-62.362205)">
     <rect
-       style="fill:url(#radialGradient7338);fill-opacity:1;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect6169"
        width="765"
        height="990"
@@ -243,18 +221,18 @@
        id="text6675"
        y="120.74499"
        x="196.59431"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="120.74499"
          x="196.59431"
          id="tspan6677"
          sodipodi:role="line"
-         style="fill-opacity:1;fill:#ffffff;">Experiencia</tspan><tspan
+         style="fill-opacity:1;fill:#4d4d4d;">Experiencia</tspan><tspan
          y="150.745"
          x="196.59431"
          sodipodi:role="line"
          id="tspan6987"
-         style="fill-opacity:1;fill:#ffffff;">Laboral</tspan></text>
+         style="fill-opacity:1;fill:#4d4d4d;">Laboral</tspan></text>
     <g
        id="g6824"
        transform="translate(13.531386,-569.46641)">
@@ -574,7 +552,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none;"
        x="196.59431"
        y="587.31641"
        id="text7054"
@@ -583,7 +561,7 @@
          sodipodi:role="line"
          x="196.59431"
          y="587.31641"
-         style="fill-opacity:1;fill:#ffffff;">Contribuciones</tspan></text>
+         style="fill-opacity:1;fill:#4d4d4d;">Contribuciones</tspan></text>
     <g
        id="g7062"
        transform="translate(13.531386,-104.23954)">
