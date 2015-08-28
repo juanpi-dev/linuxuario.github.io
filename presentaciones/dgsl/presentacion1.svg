@@ -1719,8 +1719,8 @@
        id="path4885"
        transform="translate(0,452.36218)" />
     <image
-       sodipodi:absref="/home/juan/Dropbox/desorden/dgsl/cinelerra.jpg"
-       xlink:href="/home/juan/Dropbox/desorden/dgsl/cinelerra.jpg"
+       sodipodi:absref="./cinelerra.jpg"
+       xlink:href="./cinelerra.jpg"
        y="1706.0754"
        x="2737.2524"
        id="image3110"
@@ -2046,8 +2046,8 @@
          id="path8767" />
     </g>
     <image
-       sodipodi:absref="/home/juan/Dropbox/desorden/dgsl/GIMP_2.8.png"
-       xlink:href="/home/juan/Dropbox/desorden/dgsl/GIMP_2.8.png"
+       sodipodi:absref="./GIMP_2.8.png"
+       xlink:href="./GIMP_2.8.png"
        y="1997.0985"
        x="2348.2678"
        id="image3161"
@@ -2228,8 +2228,8 @@
          id="path8852" />
     </g>
     <image
-       sodipodi:absref="/home/juan/Dropbox/desorden/dgsl/Synfig_Screenshot.png"
-       xlink:href="/home/juan/Dropbox/desorden/dgsl/Synfig_Screenshot.png"
+       sodipodi:absref="./Synfig_Screenshot.png"
+       xlink:href="./Synfig_Screenshot.png"
        y="1312.1263"
        x="3128.6096"
        id="image3176"
@@ -2237,8 +2237,8 @@
        width="229.79388"
        transform="matrix(0.9781476,-0.20791169,0.20791169,0.9781476,0,0)" />
     <image
-       sodipodi:absref="/home/juan/Dropbox/desorden/dgsl/Inkscape0.45.png"
-       xlink:href="/home/juan/Dropbox/desorden/dgsl/Inkscape0.45.png"
+       sodipodi:absref="./Inkscape0.45.png"
+       xlink:href="./Inkscape0.45.png"
        y="2187.1367"
        x="1717.5791"
        id="image3195"
@@ -2246,8 +2246,8 @@
        width="195.22548"
        transform="matrix(0.66913061,-0.74314483,0.74314483,0.66913061,0,0)" />
     <image
-       sodipodi:absref="/home/juan/Dropbox/desorden/dgsl/Scribus-1.3-Linux.png"
-       xlink:href="/home/juan/Dropbox/desorden/dgsl/Scribus-1.3-Linux.png"
+       sodipodi:absref="./Scribus-1.3-Linux.png"
+       xlink:href="./Scribus-1.3-Linux.png"
        y="897.48669"
        x="3454.5586"
        id="image3206"
@@ -2479,8 +2479,8 @@
          id="path8962" />
     </g>
     <image
-       sodipodi:absref="/home/juan/Dropbox/desorden/dgsl/blender.png"
-       xlink:href="/home/juan/Dropbox/desorden/dgsl/blender.png"
+       sodipodi:absref="./blender.png"
+       xlink:href="./blender.png"
        y="404.79254"
        x="3479.6868"
        id="image3233"
