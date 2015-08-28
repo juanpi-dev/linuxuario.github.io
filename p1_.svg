@@ -648,8 +648,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="590.359"
-     inkscape:cy="763.85511"
+     inkscape:cx="643.51371"
+     inkscape:cy="648.36236"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -667,7 +667,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1533,21 +1533,30 @@
                width="135.2"
                id="rect5256-0"
                style="opacity:1;fill:url(#linearGradient5356);fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-            <text
-               xml:space="preserve"
+            <g
                style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:-0.69999999px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
-               x="286.99048"
-               y="388.99289"
-               id="text5250-2"
-               sodipodi:linespacing="125%"><tspan
-                 sodipodi:role="line"
-                 id="tspan5252-0"
-                 x="286.64047"
-                 y="388.99289">L<tspan
-   id="tspan5390-4"
-   style="font-size:64.99999762%;baseline-shift:super">A</tspan>T<tspan
-   id="tspan5392-9"
-   style="font-size:64.99999762%;baseline-shift:sub">E</tspan>X</tspan></text>
+               id="text5250-2">
+              <path
+                 d="m 273.20035,388.31479 4.83399,0 0,0.6781 -5.63965,0 0,-9.77539 0.80566,0 0,9.09729 z"
+                 style=""
+                 id="path5348" />
+              <path
+                 d="m 281.9095,381.7211 -2.91079,0 -0.65461,1.77179 -0.54113,0 2.4133,-6.354 0.49313,0 2.39584,6.354 -0.54113,0 -0.65461,-1.77179 z m -2.73623,-0.46695 2.56604,0 -1.26557,-3.43884 -0.0262,0 -1.27429,3.43884 z"
+                 style="font-size:64.99999762%;baseline-shift:super"
+                 id="path5350" />
+              <path
+                 d="m 290.38434,379.90231 -3.36365,0 0,9.09058 -0.80566,0 0,-9.09058 -3.36365,0 0,-0.68481 7.53296,0 0,0.68481 z"
+                 style=""
+                 id="path5352" />
+              <path
+                 d="m 294.39848,388.66626 -3.05917,0 0,2.63586 3.5043,0 0,0.44077 -4.02362,0 0,-6.354 4.0018,0 0,0.44512 -3.48248,0 0,2.38712 3.05917,0 0,0.44513 z"
+                 style="font-size:64.99999762%;baseline-shift:sub"
+                 id="path5354" />
+              <path
+                 d="m 298.65231,383.39352 2.7594,-4.17602 0.97351,0 -3.24951,4.82056 3.35693,4.95483 -0.96008,0 -2.86682,-4.3103 -2.86011,4.3103 -0.97351,0 3.35693,-4.95483 -3.25622,-4.82056 0.97351,0 2.74597,4.17602 z"
+                 style=""
+                 id="path5356" />
+            </g>
           </g>
           <g
              transform="matrix(0.92338956,0,0,0.92295512,380.93138,86.856683)"
