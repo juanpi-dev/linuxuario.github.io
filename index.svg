@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:ns1="http://sozi.baierouge.fr"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -10,13 +11,32 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8.5in"
-   height="11in"
-   viewBox="0 0 765 990"
+   width="800"
+   height="2500"
+   viewBox="0 0 800 2500"
    id="svg5807"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="p1_.svg">
+   sodipodi:docname="index.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.466"
+     inkscape:cx="567.40817"
+     inkscape:cy="614.24891"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="679"
+     inkscape:window-x="0"
+     inkscape:window-y="17"
+     inkscape:window-maximized="1" />
   <defs
      id="defs5809">
     <linearGradient
@@ -653,25 +673,6 @@
          id="feGaussianBlur14041" />
     </filter>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="-905.67227"
-     inkscape:cy="-1659.4085"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     units="in"
-     inkscape:window-width="1280"
-     inkscape:window-height="679"
-     inkscape:window-x="0"
-     inkscape:window-y="17"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata5812">
     <rdf:RDF>
@@ -688,9 +689,45 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-62.362205)">
+     transform="translate(0,1447.6378)">
+    <rect
+       y="-1447.6378"
+       x="0"
+       height="500"
+       width="800"
+       id="rect9659"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9657"
+       width="800"
+       height="500"
+       x="0"
+       y="-947.63782" />
+    <rect
+       y="-447.63779"
+       x="0"
+       height="500"
+       width="800"
+       id="rect9655"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9661"
+       width="800"
+       height="500"
+       x="0"
+       y="52.362171" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9653"
+       width="800"
+       height="500"
+       x="0"
+       y="552.36218" />
     <g
-       id="g9285">
+       id="g9285"
+       transform="translate(35.000015,-1543.9034)">
       <g
          id="g9229">
         <ellipse
@@ -716,13 +753,13 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none"
            x="196.85211"
-           y="399.99289"
+           y="528.11676"
            id="text4883-2"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan4885-3"
              x="196.85211"
-             y="399.99289">Pericia</tspan></text>
+             y="528.11676">Pericia</tspan></text>
         <g
            id="g14910-3">
           <g
@@ -1854,7 +1891,8 @@
       </g>
     </g>
     <g
-       id="g9460">
+       id="g9460"
+       transform="translate(35.000015,-1819.9407)">
       <g
          id="g9053">
         <ellipse
@@ -1880,13 +1918,13 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none"
            x="196.75836"
-           y="741.63983"
+           y="842.21289"
            id="text4464-3"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan4466-3"
              x="196.75836"
-             y="741.63983">Educación</tspan></text>
+             y="842.21289">Educación</tspan></text>
         <g
            id="g15233-6">
           <g
@@ -2113,7 +2151,8 @@
       </g>
     </g>
     <g
-       id="g9237">
+       id="g9237"
+       transform="translate(35.000015,-1405.309)">
       <g
          id="g9233">
         <ellipse
@@ -2148,11 +2187,11 @@
         <text
            sodipodi:linespacing="125%"
            id="text3152-7"
-           y="188.28441"
+           y="216.37236"
            x="196.60602"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             y="188.28441"
+             y="216.37236"
              x="196.60602"
              id="tspan3154-7"
              sodipodi:role="line">Datos</tspan></text>
@@ -2349,7 +2388,8 @@
       </g>
     </g>
     <g
-       id="g9509">
+       id="g9509"
+       transform="translate(34.999985,-2174.4781)">
       <g
          id="g8932">
         <ellipse
@@ -2373,16 +2413,16 @@
         <text
            sodipodi:linespacing="125%"
            id="text6675"
-           y="2266.5176"
+           y="2470.6353"
            x="196.59431"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             y="2266.5176"
+             y="2470.6353"
              x="196.59431"
              id="tspan6677"
              sodipodi:role="line"
              style="fill:#4d4d4d;fill-opacity:1">Experiencia</tspan><tspan
-             y="2296.5176"
+             y="2500.6353"
              x="196.59431"
              sodipodi:role="line"
              id="tspan6987"
@@ -2711,7 +2751,8 @@
       </g>
     </g>
     <g
-       id="g9583">
+       id="g9583"
+       transform="translate(34.999985,-2315.8758)">
       <g
          id="g9003">
         <ellipse
@@ -2736,13 +2777,13 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke:none"
            x="196.59431"
-           y="2940.2983"
+           y="3127.1736"
            id="text7054"
            sodipodi:linespacing="125%"><tspan
              id="tspan7058"
              sodipodi:role="line"
              x="196.59431"
-             y="2940.2983"
+             y="3127.1736"
              style="fill:#4d4d4d;fill-opacity:1">Contribuciones</tspan></text>
         <g
            id="g6986"
@@ -3072,5 +3113,332 @@
         </g>
       </g>
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9530"
+       y="-980.49493"
+       x="385.71429"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-980.49493"
+         x="385.71429"
+         id="tspan9532"
+         sodipodi:role="line" /></text>
+    <a
+       id="a14548"
+       xlink:href="#2">
+      <g
+         id="button1">
+        <path
+           style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 860.08584,-1087.7236 0,140.08581 -140.08584,0 z"
+           id="rect9554"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:80.00000119%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="798.53711"
+           y="-949.77936"
+           id="text9597"
+           sodipodi:linespacing="80.000001%"><tspan
+             id="tspan9601"
+             sodipodi:role="line"
+             x="798.53711"
+             y="-949.77936">Pericia</tspan></text>
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 770.59974,-967.9687 c 0,-3.41252 5.11879,-10.23757 17.06262,-10.23757 l 0,6.82505 10.23757,-10.23758 -10.23757,-10.23753 0,6.825 c -9.40774,0 -17.06262,7.65488 -17.06262,17.06263 z"
+           id="path9603" />
+      </g>
+    </a>
+    <a
+       id="a15107"
+       xlink:href="#1">
+      <g
+         id="button2">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path9559"
+           d="m 860.08584,-807.5519 0,-140.08587 -140.08584,0 z"
+           style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="80.000001%"
+           id="text9579"
+           y="-938.23541"
+           x="798.43457"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:80.00000119%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="-938.23541"
+             x="798.43457"
+             id="tspan9581"
+             sodipodi:role="line">Datos</tspan><tspan
+             y="-930.23541"
+             x="798.43457"
+             sodipodi:role="line"
+             id="tspan9595">básicos</tspan></text>
+        <path
+           id="path9584"
+           d="m 797.89993,-901.99562 c 0,-3.41252 -5.11879,-10.23757 -17.06262,-10.23757 l 0,6.82505 -10.23757,-10.23758 10.23757,-10.23757 0,6.82504 c 9.40774,0 17.06262,7.65488 17.06262,17.06263 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </a>
+    <a
+       id="a15115"
+       xlink:href="#3">
+      <g
+         transform="translate(0,500.00001)"
+         id="button3">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path9698"
+           d="m 860.08584,-1087.7236 0,140.08584 -140.08584,0 z"
+           style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="80.000001%"
+           id="text9700"
+           y="-949.78912"
+           x="798.49805"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:80.00000119%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="-949.78912"
+             x="798.49805"
+             sodipodi:role="line"
+             id="tspan9702">Educación</tspan></text>
+        <path
+           id="path9704"
+           d="m 770.59974,-967.9687 c 0,-3.41252 5.11879,-10.23757 17.06262,-10.23757 l 0,6.82505 10.23757,-10.23758 -10.23757,-10.23753 0,6.825 c -9.40774,0 -17.06262,7.65488 -17.06262,17.06263 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </a>
+    <a
+       id="a15122"
+       xlink:href="#2">
+      <g
+         transform="translate(0,499.99993)"
+         id="button4">
+        <path
+           style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 860.08584,-807.55193 0,-140.08586 -140.08584,0 z"
+           id="path9686"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:80.00000119%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="798.53711"
+           y="-938.15729"
+           id="text9688"
+           sodipodi:linespacing="80.000001%"><tspan
+             id="tspan9692"
+             sodipodi:role="line"
+             x="798.53711"
+             y="-938.15729">Pericia</tspan></text>
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 797.89993,-901.99562 c 0,-3.41252 -5.11879,-10.23757 -17.06262,-10.23757 l 0,6.82505 -10.23757,-10.23758 10.23757,-10.23757 0,6.82504 c 9.40774,0 17.06262,7.65488 17.06262,17.06263 z"
+           id="path9694" />
+      </g>
+    </a>
+    <a
+       id="a15129"
+       xlink:href="#4">
+      <g
+         id="button5"
+         transform="translate(0,999.99994)">
+        <path
+           style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 860.08584,-1087.7236 0,140.08579 -140.08584,0 z"
+           id="path9720"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:80.00000119%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="798.42969"
+           y="-957.78912"
+           id="text9722"
+           sodipodi:linespacing="80.000001%"><tspan
+             id="tspan9724"
+             sodipodi:role="line"
+             x="798.42969"
+             y="-957.78912">Experiencia</tspan><tspan
+             id="tspan9756"
+             sodipodi:role="line"
+             x="798.42969"
+             y="-949.78912">laboral</tspan></text>
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 770.59974,-967.9687 c 0,-3.41252 5.11879,-10.23757 17.06262,-10.23757 l 0,6.82505 10.23757,-10.23758 -10.23757,-10.23753 0,6.825 c -9.40774,0 -17.06262,7.65488 -17.06262,17.06263 z"
+           id="path9726" />
+      </g>
+    </a>
+    <a
+       id="a15137"
+       xlink:href="#3">
+      <g
+         id="button6"
+         transform="translate(0,1000)">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path9708"
+           d="m 860.08584,-807.55188 0,-140.08587 -140.08584,0 z"
+           style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="80.000001%"
+           id="text9710"
+           y="-938.0401"
+           x="798.49805"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:80.00000119%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="-938.0401"
+             x="798.49805"
+             sodipodi:role="line"
+             id="tspan9714">Educación</tspan></text>
+        <path
+           id="path9716"
+           d="m 797.89993,-901.99562 c 0,-3.41252 -5.11879,-10.23757 -17.06262,-10.23757 l 0,6.82505 -10.23757,-10.23758 10.23757,-10.23757 0,6.82504 c 9.40774,0 17.06262,7.65488 17.06262,17.06263 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </a>
+    <a
+       id="a15144"
+       xlink:href="#5">
+      <g
+         transform="translate(0,1500)"
+         id="button7">
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path9742"
+           d="m 860.08584,-1087.7236 0,140.08581 -140.08584,0 z"
+           style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="80.000001%"
+           id="text9744"
+           y="-949.78912"
+           x="798.43457"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:80.00000119%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="-949.78912"
+             x="798.43457"
+             sodipodi:role="line"
+             id="tspan9746">Contribuciones</tspan></text>
+        <path
+           id="path9748"
+           d="m 770.59974,-967.9687 c 0,-3.41252 5.11879,-10.23757 17.06262,-10.23757 l 0,6.82505 10.23757,-10.23758 -10.23757,-10.23753 0,6.825 c -9.40774,0 -17.06262,7.65488 -17.06262,17.06263 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </a>
+    <a
+       id="a15151"
+       xlink:href="#4">
+      <g
+         transform="translate(0,1500)"
+         id="button8">
+        <path
+           style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 860.08584,-807.5519 0,-140.08587 -140.08584,0 z"
+           id="path9730"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:80.00000119%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="798.42969"
+           y="-938.15729"
+           id="text9732"
+           sodipodi:linespacing="80.000001%"><tspan
+             id="tspan9736"
+             sodipodi:role="line"
+             x="798.42969"
+             y="-938.15729">Experiencia</tspan><tspan
+             id="tspan9752"
+             sodipodi:role="line"
+             x="798.42969"
+             y="-930.15729">laboral</tspan></text>
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 797.89993,-901.99562 c 0,-3.41252 -5.11879,-10.23757 -17.06262,-10.23757 l 0,6.82505 -10.23757,-10.23758 10.23757,-10.23757 0,6.82504 c 9.40774,0 17.06262,7.65488 17.06262,17.06263 z"
+           id="path9738" />
+      </g>
+    </a>
   </g>
+  <script
+     ns1:version="12.06-12110506"
+     id="sozi-script">function module(c,a){var b=this;c.split(&quot;.&quot;).forEach(function(d){if(typeof b[d]===&quot;undefined&quot;){b[d]={}}b=b[d]});a(b)}module(&quot;sozi.events&quot;,function(b){var a={};b.listen=function(c,d){if(!a.hasOwnProperty(c)){a[c]=[]}a[c].push(d)};b.fire=function(d){var c=Array.prototype.slice.call(arguments,1);if(a.hasOwnProperty(d)){a[d].forEach(function(e){e.apply(null,c)})}}});module(&quot;sozi.framenumber&quot;,function(d){var f=this,g=f.document,i,j,b,c,e=&quot;http://www.w3.org/2000/svg&quot;;function h(){var m=j.getBBox(),n=Math.max(m.width,m.height)*0.75,l=n*1.25;b.setAttribute(&quot;r&quot;,n);i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+l+&quot;,&quot;+l+&quot;)&quot;)}function a(){i=g.createElementNS(e,&quot;g&quot;);j=g.createElementNS(e,&quot;text&quot;);b=g.createElementNS(e,&quot;circle&quot;);i.setAttribute(&quot;id&quot;,&quot;sozi-framenumber&quot;);b.setAttribute(&quot;cx&quot;,0);b.setAttribute(&quot;cy&quot;,0);i.appendChild(b);c=g.createTextNode(sozi.location.getFrameIndex()+1);j.setAttribute(&quot;text-anchor&quot;,&quot;middle&quot;);j.setAttribute(&quot;dominant-baseline&quot;,&quot;central&quot;);j.setAttribute(&quot;x&quot;,0);j.setAttribute(&quot;y&quot;,0);j.appendChild(c);i.appendChild(j);g.documentElement.appendChild(i);h()}function k(l){c.nodeValue=l+1}sozi.events.listen(&quot;displayready&quot;,a);sozi.events.listen(&quot;framechange&quot;,k)});module(&quot;sozi.framelist&quot;,function(v){var k=this,q=k.document,m,c,j=0,d=5,i,t,b,x,y,u,f=300,g=&quot;decelerate&quot;,a=&quot;http://www.w3.org/2000/svg&quot;;function p(B){var z=B.relatedTarget,A=q.documentElement;while(z!==m&amp;&amp;z!==A){z=z.parentNode}if(z===A){v.hide();sozi.player.restart();B.stopPropagation()}}function s(A){var z=c.getCTM().f;if(z&lt;=-k.innerHeight/2){z+=k.innerHeight/2}else{if(z&lt;0){z=0}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+z+&quot;)&quot;);A.stopPropagation()}function e(A){var z=c.getCTM().f;if(z+j&gt;=k.innerHeight*3/2){z-=k.innerHeight/2}else{if(z+j&gt;k.innerHeight+2*d){z=k.innerHeight-j-4*d}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+z+&quot;)&quot;);A.stopPropagation()}function r(z){var B=sozi.animation.profiles[g](z),A=1-B;y=x*B+b*A;m.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+y+&quot;,0)&quot;)}function w(){}function h(z){return function(A){sozi.player.previewFrame(z);A.stopPropagation()}}function l(z){z.stopPropagation()}function o(){var B=q.createElementNS(a,&quot;rect&quot;),A=q.createElementNS(a,&quot;path&quot;),C=q.createElementNS(a,&quot;path&quot;),D=0,E,z=sozi.location.getFrameIndex();m=q.createElementNS(a,&quot;g&quot;);m.setAttribute(&quot;id&quot;,&quot;sozi-toc&quot;);q.documentElement.appendChild(m);c=q.createElementNS(a,&quot;g&quot;);m.appendChild(c);B.setAttribute(&quot;id&quot;,&quot;sozi-toc-background&quot;);B.setAttribute(&quot;x&quot;,d);B.setAttribute(&quot;y&quot;,d);B.setAttribute(&quot;rx&quot;,d);B.setAttribute(&quot;ry&quot;,d);B.addEventListener(&quot;click&quot;,l,false);B.addEventListener(&quot;mousedown&quot;,l,false);B.addEventListener(&quot;mouseout&quot;,p,false);c.appendChild(B);sozi.document.frames.forEach(function(G,H){var F=q.createElementNS(a,&quot;text&quot;);F.appendChild(q.createTextNode(G.title));c.appendChild(F);if(H===z){F.setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}E=F.getBBox().width;j+=F.getBBox().height;if(E&gt;D){D=E}F.setAttribute(&quot;x&quot;,2*d);F.setAttribute(&quot;y&quot;,j+d);F.addEventListener(&quot;click&quot;,h(H),false);F.addEventListener(&quot;mousedown&quot;,l,false)});A.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);A.setAttribute(&quot;d&quot;,&quot;M&quot;+(D+3*d)+&quot;,&quot;+(5*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,-&quot;+(3*d)+&quot; z&quot;);A.addEventListener(&quot;click&quot;,s,false);A.addEventListener(&quot;mousedown&quot;,l,false);m.appendChild(A);C.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);C.setAttribute(&quot;d&quot;,&quot;M&quot;+(D+3*d)+&quot;,&quot;+(7*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,&quot;+(3*d)+&quot; z&quot;);C.addEventListener(&quot;click&quot;,e,false);C.addEventListener(&quot;mousedown&quot;,l,false);m.appendChild(C);B.setAttribute(&quot;width&quot;,D+7*d);B.setAttribute(&quot;height&quot;,j+2*d);i=-D-9*d;t=0;y=x=i;m.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+i+&quot;,0)&quot;);u=new sozi.animation.Animator(r,w)}function n(z){var B=Array.prototype.slice.call(q.getElementsByClassName(&quot;sozi-toc-current&quot;)),A=c.getElementsByTagName(&quot;text&quot;);B.forEach(function(C){C.removeAttribute(&quot;class&quot;)});A[z].setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}v.show=function(){b=y;x=t;u.start(f)};v.hide=function(){b=y;x=i;u.start(f)};v.isVisible=function(){return x===t};sozi.events.listen(&quot;displayready&quot;,o);sozi.events.listen(&quot;cleanup&quot;,v.hide);sozi.events.listen(&quot;framechange&quot;,n)});module(&quot;sozi.document&quot;,function(c){var e=this,g=e.document,b=&quot;http://sozi.baierouge.fr&quot;,d={title:&quot;Untitled&quot;,sequence:&quot;0&quot;,hide:&quot;true&quot;,clip:&quot;true&quot;,&quot;timeout-enable&quot;:&quot;false&quot;,&quot;timeout-ms&quot;:&quot;5000&quot;,&quot;transition-duration-ms&quot;:&quot;1000&quot;,&quot;transition-zoom-percent&quot;:&quot;0&quot;,&quot;transition-profile&quot;:&quot;linear&quot;};c.frames=[];c.idLayerList=[];function i(k,j){var l=k.getAttributeNS(b,j);return l===&quot;&quot;?d[j]:l}function h(n,o,j){var k=n.layers[o]=n.layers[o]||{idLayer:o,geometry:{clip:d.clip}},l=k.geometry.clip,m;if(typeof k.hide===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;hide&quot;)){k.hide=i(j,&quot;hide&quot;)===&quot;true&quot;}if(typeof k.transitionZoomPercent===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;transition-zoom-percent&quot;)){k.transitionZoomPercent=parseInt(i(j,&quot;transition-zoom-percent&quot;),10)}if(typeof k.transitionProfile===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;transition-profile&quot;)){k.transitionProfile=sozi.animation.profiles[i(j,&quot;transition-profile&quot;)||&quot;linear&quot;]}if(j.hasAttributeNS(b,&quot;refid&quot;)){m=g.getElementById(j.getAttributeNS(b,&quot;refid&quot;));if(m){if(k.hide){m.style.visibility=&quot;hidden&quot;}k.geometry=sozi.display.getElementGeometry(m);k.geometry.clip=l}}if(j.hasAttributeNS(b,&quot;clip&quot;)){k.geometry.clip=i(j,&quot;clip&quot;)===&quot;true&quot;}}function a(){var j,m,n,o,k=g.documentElement,l=&quot;http://www.w3.org/2000/svg&quot;;m=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;layer&quot;));m.forEach(function(p){var q=p.getAttributeNS(b,&quot;group&quot;);if(q&amp;&amp;c.idLayerList.indexOf(q)===-1&amp;&amp;g.getElementById(q)){c.idLayerList.push(q)}});j=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;frame&quot;));if(j.some(function(p){return p.hasAttributeNS(b,&quot;refid&quot;)})){n=g.createElementNS(l,&quot;g&quot;);o=Array.prototype.slice.call(k.childNodes);o.forEach(function(q,p){if(!q.getAttribute){k.removeChild(q)}else{if(c.idLayerList.indexOf(q.getAttribute(&quot;id&quot;))===-1){k.removeChild(q);n.appendChild(q)}else{if(n.firstChild){n.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+p);c.idLayerList.push(&quot;sozi-wrapper-&quot;+p);k.insertBefore(n,q);n=g.createElementNS(l,&quot;g&quot;)}}}});if(n.firstChild){n.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+o.length);c.idLayerList.push(&quot;sozi-wrapper-&quot;+o.length);k.appendChild(n)}}j.forEach(function(q,p){var s,r={id:q.getAttribute(&quot;id&quot;),title:i(q,&quot;title&quot;),sequence:parseInt(i(q,&quot;sequence&quot;),10),timeoutEnable:i(q,&quot;timeout-enable&quot;)===&quot;true&quot;,timeoutMs:parseInt(i(q,&quot;timeout-ms&quot;),10),transitionDurationMs:parseInt(i(q,&quot;transition-duration-ms&quot;),10),layers:{}};c.idLayerList.forEach(function(w){var t,u,v;if(p===0||w.search(&quot;sozi-wrapper-[0-9]+&quot;)!==-1){h(r,w,q)}else{u=r.layers[w]={};v=c.frames[c.frames.length-1].layers[w];for(t in v){u[t]=v[t]}}});m=Array.prototype.slice.call(q.getElementsByTagNameNS(b,&quot;layer&quot;));m.forEach(function(t){var u=t.getAttributeNS(b,&quot;group&quot;);if(u&amp;&amp;c.idLayerList.indexOf(u)!==-1){h(r,u,t)}});for(s in r.layers){if(r.layers.hasOwnProperty(s)){c.frames.push(r);break}}});c.frames.sort(function(q,p){return q.sequence-p.sequence})}function f(){g.documentElement.removeAttribute(&quot;viewBox&quot;);a();sozi.events.fire(&quot;documentready&quot;)}e.addEventListener(&quot;load&quot;,f,false)});module(&quot;sozi.animation&quot;,function(d){var g=this,i=40,j=[],b,h=g.mozRequestAnimationFrame||g.webkitRequestAnimationFrame||g.msRequestAnimationFrame||g.oRequestAnimationFrame;function e(l){var k;if(j.length&gt;0){if(h){h(e)}j.forEach(function(m){m.step(l)})}else{if(!h){g.clearInterval(b)}}}function c(){if(h){h(e)}else{b=g.setInterval(function(){e(Date.now())},i)}}function a(k){j.push(k);if(j.length===1){c()}}function f(k){j.splice(j.indexOf(k),1)}d.Animator=function(k,l){this.onStep=k;this.onDone=l;this.durationMs=0;this.data={};this.initialTime=0;this.started=false};d.Animator.prototype.start=function(k,l){this.durationMs=k;this.data=l;this.initialTime=Date.now();this.onStep(0,this.data);if(!this.started){this.started=true;a(this)}};d.Animator.prototype.stop=function(){if(this.started){f(this);this.started=false}};d.Animator.prototype.step=function(l){var k=l-this.initialTime;if(k&gt;=this.durationMs){this.stop();this.onStep(1,this.data);this.onDone()}else{this.onStep(k/this.durationMs,this.data)}};d.profiles={linear:function(k){return k},accelerate:function(k){return Math.pow(k,3)},&quot;strong-accelerate&quot;:function(k){return Math.pow(k,5)},decelerate:function(k){return 1-Math.pow(1-k,3)},&quot;strong-decelerate&quot;:function(k){return 1-Math.pow(1-k,5)},&quot;accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,3)/2;return k&lt;=0.5?m:1-m},&quot;strong-accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,5)/2;return k&lt;=0.5?m:1-m},&quot;decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,2))/2;return k&lt;=0.5?m:1-m},&quot;strong-decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,3))/2;return k&lt;=0.5?m:1-m}}});module(&quot;sozi.display&quot;,function(c){var f=this,a=f.document,g,b=&quot;http://www.w3.org/2000/svg&quot;;c.layers={};function e(){var j,k,l,i=a.documentElement;g=i.getBBox();i.setAttribute(&quot;width&quot;,f.innerWidth);i.setAttribute(&quot;height&quot;,f.innerHeight);sozi.document.idLayerList.forEach(function(m){c.layers[m]={geometry:{cx:0,cy:0,width:1,height:1,rotate:0,clip:true},svgClipRect:a.createElementNS(b,&quot;rect&quot;),svgLayer:a.getElementById(m)};k=a.createElementNS(b,&quot;clipPath&quot;);k.setAttribute(&quot;id&quot;,&quot;sozi-clip-path-&quot;+m);k.appendChild(c.layers[m].svgClipRect);i.appendChild(k);j=a.createElementNS(b,&quot;g&quot;);j.setAttribute(&quot;clip-path&quot;,&quot;url(#sozi-clip-path-&quot;+m+&quot;)&quot;);i.insertBefore(j,c.layers[m].svgLayer);j.appendChild(c.layers[m].svgLayer)});sozi.events.fire(&quot;displayready&quot;)}function d(){var i=a.documentElement;i.setAttribute(&quot;width&quot;,f.innerWidth);i.setAttribute(&quot;height&quot;,f.innerHeight);c.update()}function h(k){var j=c.layers[k].geometry,i={};i.scale=Math.min(f.innerWidth/j.width,f.innerHeight/j.height);i.width=j.width*i.scale;i.height=j.height*i.scale;i.x=(f.innerWidth-i.width)/2;i.y=(f.innerHeight-i.height)/2;return i}c.getElementGeometry=function(m){var p,l,q,j,n,k,o=m.getCTM(),i=Math.sqrt(o.a*o.a+o.b*o.b);if(m.nodeName===&quot;rect&quot;){p=m.x.baseVal.value;l=m.y.baseVal.value;q=m.width.baseVal.value;j=m.height.baseVal.value}else{n=m.getBBox();p=n.x;l=n.y;q=n.width;j=n.height}k=a.documentElement.createSVGPoint();k.x=p+q/2;k.y=l+j/2;k=k.matrixTransform(o);return{cx:k.x,cy:k.y,width:q*i,height:j*i,rotate:Math.atan2(o.b,o.a)*180/Math.PI}};c.getDocumentGeometry=function(){var k,i={layers:{}},j={geometry:{cx:g.x+g.width/2,cy:g.y+g.height/2,width:g.width,height:g.height,rotate:0,clip:false}};for(k in c.layers){if(c.layers.hasOwnProperty(k)){i.layers[k]=j}}return i};c.update=function(){var n,i,j,k,m,l;for(n in c.layers){if(c.layers.hasOwnProperty(n)){j=c.layers[n].geometry;i=h(n);k=c.layers[n].svgClipRect;k.setAttribute(&quot;x&quot;,j.clip?i.x:0);k.setAttribute(&quot;y&quot;,j.clip?i.y:0);k.setAttribute(&quot;width&quot;,j.clip?i.width:f.innerWidth);k.setAttribute(&quot;height&quot;,j.clip?i.height:f.innerHeight);m=-j.cx+j.width/2+i.x/i.scale;l=-j.cy+j.height/2+i.y/i.scale;c.layers[n].svgLayer.setAttribute(&quot;transform&quot;,&quot;scale(&quot;+i.scale+&quot;)translate(&quot;+m+&quot;,&quot;+l+&quot;)rotate(&quot;+(-j.rotate)+&quot;,&quot;+j.cx+&quot;,&quot;+j.cy+&quot;)&quot;)}}};c.showFrame=function(l){var m,k,j,i;for(m in l.layers){if(l.layers.hasOwnProperty(m)){j=l.layers[m].geometry;k=c.layers[m].geometry;for(i in j){if(j.hasOwnProperty(i)){k[i]=j[i]}}}}c.update()};c.drag=function(k,i){var n,l,j,m;for(n in c.layers){if(c.layers.hasOwnProperty(n)){l=c.layers[n].geometry;j=h(n);m=l.rotate*Math.PI/180;l.cx-=(k*Math.cos(m)-i*Math.sin(m))/j.scale;l.cy-=(k*Math.sin(m)+i*Math.cos(m))/j.scale;l.clip=false}}c.update()};c.zoom=function(l,j,n){var m,k=(1-l)*(j-f.innerWidth/2),i=(1-l)*(n-f.innerHeight/2);for(m in c.layers){if(c.layers.hasOwnProperty(m)){c.layers[m].geometry.width/=l;c.layers[m].geometry.height/=l}}c.drag(k,i)};c.rotate=function(i){var j;for(j in c.layers){if(c.layers.hasOwnProperty(j)){c.layers[j].geometry.rotate+=i;c.layers[j].geometry.rotate%=360}}c.update()};sozi.events.listen(&quot;documentready&quot;,e);f.addEventListener(&quot;resize&quot;,d,false)});module(&quot;sozi.player&quot;,function(q){var n=sozi.display,g=this,p,j,o=500,c=-10,l=&quot;linear&quot;,h=0,i=0,b=false,a=false;function m(v,x){var w,u,z,t,s,y;for(z in x){if(x.hasOwnProperty(z)){t=n.layers[z].geometry;w=x[z].profile(v);u=1-w;for(s in x[z].initialState){if(x[z].initialState.hasOwnProperty(s)){if(typeof x[z].initialState[s]===&quot;number&quot;&amp;&amp;typeof x[z].finalState[s]===&quot;number&quot;){t[s]=x[z].finalState[s]*w+x[z].initialState[s]*u}}}if(x[z].zoomWidth&amp;&amp;x[z].zoomWidth.k!==0){y=v-x[z].zoomWidth.ts;t.width=x[z].zoomWidth.k*y*y+x[z].zoomWidth.ss}if(x[z].zoomHeight&amp;&amp;x[z].zoomHeight.k!==0){y=v-x[z].zoomHeight.ts;t.height=x[z].zoomHeight.k*y*y+x[z].zoomHeight.ss}t.clip=x[z].finalState.clip}}n.update()}function f(){var s;if(sozi.document.frames[i].timeoutEnable){a=true;s=(i+1)%sozi.document.frames.length;j=g.setTimeout(function(){q.moveToFrame(s)},sozi.document.frames[i].timeoutMs)}}function r(){h=i;if(b){f()}}q.startFromIndex=function(s){b=true;a=false;h=s;i=s;n.showFrame(sozi.document.frames[s]);f()};q.restart=function(){q.startFromIndex(i)};q.stop=function(){p.stop();if(a){g.clearTimeout(j);a=false}b=false;h=i};function e(s,C,A){var D={ss:((s&lt;0)?Math.max(C,A):Math.min(C,A))*(100-s)/100,ts:0.5,k:0},y,x,w,t,B,z;if(s!==0){y=C-A;x=C-D.ss;w=A-D.ss;if(y!==0){t=Math.sqrt(x*w);B=(x-t)/y;z=(x+t)/y;D.ts=(B&gt;0&amp;&amp;B&lt;=1)?B:z}D.k=x/D.ts/D.ts}return D}q.jumpToFrame=function(s){q.stop();sozi.events.fire(&quot;cleanup&quot;);h=s;i=s;n.showFrame(sozi.document.frames[s]);sozi.events.fire(&quot;framechange&quot;,s)};function d(s,w,z,t){var u,y,x,v={};for(y in s.layers){if(s.layers.hasOwnProperty(y)){v[y]={initialState:{},finalState:{}};v[y].profile=t||w.layers[y].transitionProfile;for(u in s.layers[y].geometry){if(s.layers[y].geometry.hasOwnProperty(u)){v[y].initialState[u]=s.layers[y].geometry[u];if(w.layers.hasOwnProperty(y)){v[y].finalState[u]=w.layers[y].geometry[u]}else{v[y].finalState[u]=s.layers[y].geometry[u]}}}v[y].initialState.rotate=(v[y].initialState.rotate-180)%360+180;v[y].finalState.rotate=(v[y].finalState.rotate-180)%360+180;if(v[y].finalState.rotate-v[y].initialState.rotate&gt;180){v[y].finalState.rotate-=360}else{if(v[y].finalState.rotate-v[y].initialState.rotate&lt;-180){v[y].initialState.rotate-=360}}x=z||w.layers[y].transitionZoomPercent;if(x&amp;&amp;w.layers.hasOwnProperty(y)){v[y].zoomWidth=e(x,s.layers[y].geometry.width,w.layers[y].geometry.width);v[y].zoomHeight=e(x,s.layers[y].geometry.height,w.layers[y].geometry.height)}}}return v}q.previewFrame=function(s){i=s;p.start(o,d(n,sozi.document.frames[s],c,sozi.animation.profiles[l]));sozi.events.fire(&quot;framechange&quot;,s)};q.moveToFrame=function(t){var s,v,u;if(a){g.clearTimeout(j);a=false}if(t===(i+1)%sozi.document.frames.length){s=sozi.document.frames[t].transitionDurationMs;v=undefined;u=undefined}else{s=o;v=c;u=sozi.animation.profiles[l]}sozi.events.fire(&quot;cleanup&quot;);b=true;i=t;p.start(s,d(n,sozi.document.frames[t],v,u));sozi.events.fire(&quot;framechange&quot;,t)};q.moveToFirst=function(){q.moveToFrame(0)};q.jumpToPrevious=function(){var s=i;if(!p.started||h&lt;=i){s-=1}if(s&gt;=0){q.jumpToFrame(s)}};q.moveToPrevious=function(){var s,t;for(s=i-1;s&gt;=0;s-=1){t=sozi.document.frames[s];if(!t.timeoutEnable||t.timeoutMs!==0){q.moveToFrame(s);break}}};q.jumpToNext=function(){var s=i;if(!p.started||h&gt;=i){s+=1}if(s&lt;sozi.document.frames.length){q.jumpToFrame(s)}};q.moveToNext=function(){if(i&lt;sozi.document.frames.length-1||sozi.document.frames[i].timeoutEnable){q.moveToFrame((i+1)%sozi.document.frames.length)}};q.moveToLast=function(){q.moveToFrame(sozi.document.frames.length-1)};q.moveToCurrent=function(){q.moveToFrame(i)};q.showAll=function(){q.stop();sozi.events.fire(&quot;cleanup&quot;);p.start(o,d(n,n.getDocumentGeometry(),c,sozi.animation.profiles[l]))};function k(){q.startFromIndex(sozi.location.getFrameIndex());g.setTimeout(n.update,1)}p=new sozi.animation.Animator(m,r);sozi.events.listen(&quot;displayready&quot;,k)});module(&quot;sozi.location&quot;,function(a){var e=this,c=false;a.getFrameIndex=function(){var g=e.location.hash?parseInt(e.location.hash.slice(1),10)-1:0;if(isNaN(g)||g&lt;0){return 0}else{if(g&gt;=sozi.document.frames.length){return sozi.document.frames.length-1}else{return g}}};function f(){var g=a.getFrameIndex();if(!c){sozi.player.moveToFrame(g)}c=false}function d(g){c=true;e.location.hash=&quot;#&quot;+(g+1)}function b(){sozi.events.listen(&quot;framechange&quot;,d)}e.addEventListener(&quot;hashchange&quot;,f,false);e.addEventListener(&quot;load&quot;,b,false)});module(&quot;sozi.actions&quot;,function(z){var t=sozi.player,u=sozi.display,j=this,o=j.document,p=0,v=1,s=1.05,x=5,c=false,l=false,g=0,e=0;function a(B,A,C){t.stop();u.zoom(B&gt;0?s:1/s,A,C)}function w(A){t.stop();u.rotate(A&gt;0?x:-x)}function r(){if(sozi.framelist.isVisible()){sozi.framelist.hide();t.restart()}else{t.stop();sozi.framelist.show()}}function i(A){if(A.button===p){c=true;l=false;g=A.clientX;e=A.clientY}else{if(A.button===v){r()}}A.stopPropagation();A.preventDefault()}function m(A){if(c){t.stop();l=true;sozi.events.fire(&quot;cleanup&quot;);u.drag(A.clientX-g,A.clientY-e);g=A.clientX;e=A.clientY}A.stopPropagation()}function f(A){if(A.button===p){c=false}A.stopPropagation();A.preventDefault()}function q(A){t.moveToPrevious();A.stopPropagation();A.preventDefault()}function h(A){if(!l&amp;&amp;A.button!==v){t.moveToNext()}A.stopPropagation();A.preventDefault()}function k(A){var B=0;if(!A){A=j.event}if(A.wheelDelta){B=A.wheelDelta}else{if(A.detail){B=-A.detail}}if(B!==0){if(A.shiftKey){w(B)}else{a(B,A.clientX,A.clientY)}}A.stopPropagation();A.preventDefault()}function n(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.charCode||A.keyCode){case 43:a(1,j.innerWidth/2,j.innerHeight/2);break;case 45:a(-1,j.innerWidth/2,j.innerHeight/2);break;case 61:t.moveToCurrent();break;case 70:case 102:t.showAll();break;case 84:case 116:r();break;case 82:w(-1);break;case 114:w(1);break}A.stopPropagation();A.preventDefault()}function d(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.keyCode){case 36:t.moveToFirst();break;case 35:t.moveToLast();break;case 38:t.jumpToPrevious();break;case 33:case 37:t.moveToPrevious();break;case 40:t.jumpToNext();break;case 34:case 39:case 13:case 32:t.moveToNext();break}A.stopPropagation()}function y(A){A.stopPropagation()}function b(){var B=o.getElementsByTagName(&quot;a&quot;);for(var C=0;C&lt;B.length;C+=1){B[C].addEventListener(&quot;click&quot;,y,false);B[C].addEventListener(&quot;contextmenu&quot;,y,false)}var A=o.documentElement;A.addEventListener(&quot;click&quot;,h,false);A.addEventListener(&quot;mousedown&quot;,i,false);A.addEventListener(&quot;mouseup&quot;,f,false);A.addEventListener(&quot;mousemove&quot;,m,false);A.addEventListener(&quot;keypress&quot;,n,false);A.addEventListener(&quot;keydown&quot;,d,false);A.addEventListener(&quot;contextmenu&quot;,q,false);A.addEventListener(&quot;DOMMouseScroll&quot;,k,false);j.onmousewheel=k}j.addEventListener(&quot;load&quot;,b,false)});</script>
+  <style
+     ns1:version="12.06-12110506"
+     id="sozi-style">#sozi-toc text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}#sozi-toc text:hover{fill:#0cf;cursor:pointer}#sozi-toc text.sozi-toc-current{fill:#fa4}#sozi-toc-background{stroke:#222;stroke-opacity:.1;stroke-width:10;fill:#222;fill-opacity:.9}.sozi-toc-arrow{fill:#eff;fill-opacity:.75;stroke:none}.sozi-toc-arrow:hover{fill:#0cf}#sozi-framenumber circle{stroke:#222;stroke-opacity:.1;stroke-width:4;fill:#222;fill-opacity:.9}#sozi-framenumber text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}</style>
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="New frame"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:transition-duration-ms="2000.0"
+     id="frame1"
+     ns1:sequence="1"
+     ns1:refid="rect9659" />
+  <ns1:frame
+     ns1:refid="rect9657"
+     ns1:sequence="2"
+     id="frame2"
+     ns1:transition-duration-ms="2000.0"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:title="New frame"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="New frame"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:transition-duration-ms="2000.0"
+     id="frame3"
+     ns1:sequence="3"
+     ns1:refid="rect9655" />
+  <ns1:frame
+     ns1:refid="rect9661"
+     ns1:sequence="4"
+     id="frame4"
+     ns1:transition-duration-ms="2000.0"
+     ns1:hide="true"
+     ns1:clip="true"
+     ns1:title="New frame"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="New frame"
+     ns1:clip="true"
+     ns1:hide="true"
+     ns1:transition-duration-ms="2000.0"
+     id="frame5"
+     ns1:sequence="5"
+     ns1:refid="rect9653" />
 </svg>
