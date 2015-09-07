@@ -1,0 +1,92 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<!--<base href="" /><!-- -->
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>jquery.flipCountDown Demo Flip Count Down Retro Clock </title>
+	<meta name="description" content="retro flip clock plugin for jQuery.">
+	<meta name="keywords" content="Плагин jQuery, retro часы, flip часы,jQuery, plugin, count down">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>-->
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src="jquery.flipcountdown.js"></script>
+	<link rel="stylesheet" type="text/css" href="jquery.flipcountdown.css" />
+	<script>
+		jQuery(function($){
+			var i = 1000;
+			$('#retroclockbox1').flipcountdown();
+			var i = 1;
+			$('#retroclockbox_counter').flipcountdown({
+				tick:function(){
+					return i++;
+				}
+			});
+			$('#retroclockbox2').flipcountdown({showHour:false,showMinute:false,showSecond:true});
+			$('#retroclockbox3').flipcountdown({tzoneOffset:3,showSecond:false});
+			$('#retroclockbox4').flipcountdown({am:true});
+			$('#retroclockbox5').flipcountdown({speedFlip:50});
+			$('#retroclockbox6').flipcountdown({tick:function(){
+				return new Date('5/10/2012 12:34:23');
+			}});
+		})
+	</script>
+</head>
+<body>
+	<div id="main">
+		<header>
+		<h1>Panamá</h1>
+			
+		</header>
+		<table style="border:0px;">
+			<tr>
+				<td style="width:110px;text-align:center;">Días</td>
+				<td style="width:120px;text-align:center;">Horas</td>
+				<td style="width:110px;text-align:center;">Minutos</td>
+				<td style="width:120px;text-align:center;">Segundos</td>
+			</tr>
+			<tr>
+				<td colspan="4"><span id="new_year"></span></td>
+			</tr>
+		</table>
+
+
+		<script>
+			jQuery(function($){
+		//var NY = Math.round((new Date('1/01/2015 00:00:01')).getTime()/1000);
+		$('#new_year').flipcountdown({
+			size:'lg',
+			beforeDateTime:'11/01/2015 00:00:01'
+			/*tick:function(){
+				var nol = function(h){
+					return h>9?h:'0'+h;
+				}
+				var	range  	= NY-Math.round((new Date()).getTime()/1000),
+					secday = 86400, sechour = 3600,
+					days 	= parseInt(range/secday),
+					hours	= parseInt((range%secday)/sechour),
+					min		= parseInt(((range%secday)%sechour)/60),
+					sec		= ((range%secday)%sechour)%60;
+				return nol(days)+' '+nol(hours)+' '+nol(min)+' '+nol(sec);
+			}*/
+		});
+	});
+		</script>
+
+			<style>
+				body{margin:0px; padding:0px;}
+				#main{margin:0px auto; padding:0px; width:900px;position:relative;}
+				pre{
+					background:#F7F7F9;padding:10px;
+					border: 1px solid #E1E1E8;
+					border-radius: 3px;
+					color: #222222;
+				}
+				#langbox{
+					position:absolute;
+					top:10px;
+					right:10px;
+				}
+			</style>
+		</div>
+	</body>
+	</html>
