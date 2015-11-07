@@ -15,7 +15,7 @@
    viewBox="0 0 765 990"
    id="svg5807"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="p2_.svg">
   <defs
      id="defs5809">
@@ -156,15 +156,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="486.29426"
-     inkscape:cy="568.36365"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="430.02307"
+     inkscape:cy="311.01798"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="1280"
-     inkscape:window-height="679"
+     inkscape:window-width="1024"
+     inkscape:window-height="561"
      inkscape:window-x="0"
      inkscape:window-y="17"
      inkscape:window-maximized="1" />
@@ -176,7 +176,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -199,7 +199,8 @@
        cy="836.49902"
        rx="10"
        ry="107.90865"
-       transform="matrix(1,0,0,1.5616709,2.000008,-586.45622)" />
+       transform="matrix(1,0,0,1.5616709,2.000008,-586.45622)"
+       d="m 227.49998,836.49902 c 0,59.59631 -4.47715,107.90866 -10,107.90866 -5.52284,0 -10,-48.31235 -10,-107.90866 0,-59.5963 4.47716,-107.90865 10,-107.90865 5.52285,0 10,48.31235 10,107.90865 z" />
     <ellipse
        transform="matrix(1,0,0,1.5616709,2.000008,-1059.9889)"
        ry="107.90865"
@@ -207,7 +208,8 @@
        cy="836.49902"
        cx="217.49998"
        id="ellipse14051"
-       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter14039)" />
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter14039)"
+       d="m 227.49998,836.49902 c 0,59.59631 -4.47715,107.90866 -10,107.90866 -5.52284,0 -10,-48.31235 -10,-107.90866 0,-59.5963 4.47716,-107.90865 10,-107.90865 5.52285,0 10,48.31235 10,107.90865 z" />
     <rect
        y="62.362206"
        x="207.5"
@@ -215,346 +217,6 @@
        width="557.5"
        id="rect14049"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <g
-       id="g4601">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#808080;fill-opacity:1;stroke:none;"
-         x="196.59431"
-         y="120.74499"
-         id="text6675"
-         sodipodi:linespacing="125%"><tspan
-           style="fill-opacity:1;fill:#808080;"
-           sodipodi:role="line"
-           id="tspan6677"
-           x="196.59431"
-           y="120.74499">Experiencia</tspan><tspan
-           style="fill-opacity:1;fill:#808080;"
-           id="tspan6987"
-           sodipodi:role="line"
-           x="196.59431"
-           y="150.745">Laboral</tspan></text>
-      <g
-         id="g4535">
-        <g
-           id="g6824"
-           transform="translate(13.531386,-569.46653)">
-          <text
-             sodipodi:linespacing="89.999998%"
-             id="text6681"
-             y="704.8313"
-             x="318.09711"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:89.99999762%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               id="tspan6683"
-               y="704.8313"
-               x="318.09711"
-               sodipodi:role="line">Analista de innovación y desarrollo</tspan><tspan
-               y="717.2063"
-               x="318.09711"
-               sodipodi:role="line"
-               id="tspan6804">Coordinador de adiestramiento</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             x="317.858"
-             y="690.32672"
-             id="text6685"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan6687"
-               x="317.858"
-               y="690.32672">Open World Consultores</tspan></text>
-          <rect
-             style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6689"
-             width="101.42857"
-             height="13.561"
-             x="204.28572"
-             y="677.01355" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28166199px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-             x="254.90764"
-             y="688.15979"
-             id="text6691"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               x="254.90764"
-               y="688.15979"
-               id="tspan6693">2014 - Presente</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
-             x="318.1315"
-             y="730.53101"
-             id="text6808"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               x="318.1315"
-               y="730.53101"
-               id="tspan6816"
-               style="font-size:11.25px;fill:#808080">››› Instalación de soluciones tecnológicas sobre servidores <tspan
-   style="font-style:italic;font-size:11.25px"
-   id="tspan14939">GNU/Linux</tspan>.</tspan><tspan
-               sodipodi:role="line"
-               x="318.1315"
-               y="744.59351"
-               id="tspan6818"
-               style="font-size:11.25px;fill:#808080">››› Soporte a clientes en el área de servidores GNU/Linux.</tspan><tspan
-               sodipodi:role="line"
-               x="318.1315"
-               y="758.65601"
-               style="font-size:11.25px;fill:#808080"
-               id="tspan15397">››› Soporte a clientes sobre la solución ESET para empresas.</tspan><tspan
-               sodipodi:role="line"
-               x="318.1315"
-               y="772.71851"
-               style="font-size:11.25px;fill:#808080"
-               id="tspan15395">››› Coordinación del área de adiestramiento.</tspan><tspan
-               sodipodi:role="line"
-               x="318.1315"
-               y="786.78101"
-               style="font-size:11.25px;fill:#808080"
-               id="tspan7150">››› Desarrollo de herramienta web para monitoreo de servicios.</tspan><tspan
-               sodipodi:role="line"
-               x="318.1315"
-               y="800.84351"
-               id="tspan6820"
-               style="font-size:11.25px;fill:#808080">››› Instrucción de cursos de <tspan
-   style="font-style:italic;font-size:11.25px"
-   id="tspan14941">LibreOffice</tspan> para usuarios finales y soportistas.</tspan><tspan
-               sodipodi:role="line"
-               x="318.1315"
-               y="814.90601"
-               id="tspan6822"
-               style="font-size:11.25px;fill:#808080">››› Instrucción de cursos de programación en <tspan
-   style="font-style:italic;font-size:11.25px"
-   id="tspan14943">PostgreSQL</tspan>.</tspan></text>
-        </g>
-        <g
-           transform="translate(13.531386,-416.20451)"
-           id="g6840">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:89.99999762%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             x="318.09711"
-             y="702.8313"
-             id="text6842"
-             sodipodi:linespacing="89.999998%"><tspan
-               id="tspan6846"
-               sodipodi:role="line"
-               x="318.09711"
-               y="702.8313">Instructor de cursos</tspan><tspan
-               sodipodi:role="line"
-               x="318.09711"
-               y="715.2063"
-               id="tspan15391">Diseñador gráfico</tspan></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text6848"
-             y="690.32672"
-             x="317.858"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               y="690.32672"
-               x="317.858"
-               id="tspan6850"
-               sodipodi:role="line">Sánchez Solutions</tspan></text>
-          <rect
-             y="677.01355"
-             x="204.28572"
-             height="13.561"
-             width="101.42857"
-             id="rect6852"
-             style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text6854"
-             y="688.15979"
-             x="254.90764"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28166199px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               id="tspan6856"
-               y="688.15979"
-               x="254.90764"
-               sodipodi:role="line">2012 - 2014</tspan></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text6858"
-             y="728.81671"
-             x="318.1315"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               style="font-size:11.25px;fill:#808080"
-               id="tspan6868"
-               y="728.81671"
-               x="318.1315"
-               sodipodi:role="line">››› Administración de sitios web en <tspan
-   style="font-style:italic;font-size:11.25px"
-   id="tspan14949">Joomla! CMS</tspan>.</tspan><tspan
-               id="tspan6886"
-               style="font-size:11.25px;fill:#808080"
-               y="742.87921"
-               x="318.1315"
-               sodipodi:role="line">››› Instrucción de cursos de animación 3D con <tspan
-   style="font-style:italic;font-size:11.25px"
-   id="tspan14951">Blender</tspan>.</tspan><tspan
-               id="tspan6888"
-               style="font-size:11.25px;fill:#808080"
-               y="756.94171"
-               x="318.1315"
-               sodipodi:role="line">››› Instrucción de cursos de diseño de páginas web (<tspan
-   style="font-style:italic;font-size:11.25px"
-   id="tspan14953">XHTML</tspan> y <tspan
-   style="font-style:italic;font-size:11.25px"
-   id="tspan14955">CSS</tspan> ).</tspan><tspan
-               id="tspan6890"
-               style="font-size:11.25px;fill:#808080"
-               y="771.00421"
-               x="318.1315"
-               sodipodi:role="line">››› Co-organización del <tspan
-   style="font-style:italic;font-size:11.25px"
-   id="tspan14957">Congreso Internacional de Software Libre 2013</tspan>.</tspan><tspan
-               id="tspan6892"
-               style="font-size:11.25px;fill:#808080"
-               y="785.06671"
-               x="318.1315"
-               sodipodi:role="line">››› Diseño gráfico web y de material P.O.P.</tspan><tspan
-               id="tspan6894"
-               style="font-size:11.25px;fill:#808080"
-               y="799.12921"
-               x="318.1315"
-               sodipodi:role="line">››› Producción de videos en 3D.</tspan></text>
-        </g>
-        <g
-           id="g6896"
-           transform="translate(13.531386,-281.00443)">
-          <text
-             sodipodi:linespacing="89.999998%"
-             id="text6898"
-             y="704.8313"
-             x="318.09711"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:89.99999762%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               y="704.8313"
-               x="318.09711"
-               sodipodi:role="line"
-               id="tspan6900">Webmaster</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             x="317.858"
-             y="690.32672"
-             id="text6902"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan6904"
-               x="317.858"
-               y="690.32672">Hobbysoft</tspan></text>
-          <rect
-             style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6906"
-             width="101.42857"
-             height="13.561"
-             x="204.28572"
-             y="677.01355" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28166199px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-             x="254.90764"
-             y="688.15979"
-             id="text6908"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               x="254.90764"
-               y="688.15979"
-               id="tspan6910">2011 - 2012</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
-             x="318.1315"
-             y="718.53101"
-             id="text6912"
-             sodipodi:linespacing="125%"><tspan
-               id="tspan6946"
-               sodipodi:role="line"
-               x="318.1315"
-               y="718.53101"
-               style="font-size:11.25px;fill:#808080">››› Edición y corrección de diversos sitios web comerciales.</tspan><tspan
-               id="tspan6948"
-               sodipodi:role="line"
-               x="318.1315"
-               y="732.59351"
-               style="font-size:11.25px;fill:#808080">››› Diagramación de sitios web.</tspan></text>
-        </g>
-        <g
-           transform="translate(13.531386,-210.05491)"
-           id="g6950">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:89.99999762%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             x="318.09711"
-             y="704.8313"
-             id="text6952"
-             sodipodi:linespacing="89.999998%"><tspan
-               id="tspan6974"
-               sodipodi:role="line"
-               x="318.09711"
-               y="704.8313">Webmaster</tspan><tspan
-               id="tspan6976"
-               sodipodi:role="line"
-               x="318.09711"
-               y="717.2063">Diseñador gráfico</tspan></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text6956"
-             y="690.32672"
-             x="317.858"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               y="690.32672"
-               x="317.858"
-               id="tspan6958"
-               sodipodi:role="line">Grand News Marketing</tspan></text>
-          <rect
-             y="677.01355"
-             x="204.28572"
-             height="13.561"
-             width="101.42857"
-             id="rect6960"
-             style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text6962"
-             y="688.15979"
-             x="254.90764"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28166199px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               id="tspan6964"
-               y="688.15979"
-               x="254.90764"
-               sodipodi:role="line">2008 - 2011</tspan></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text6966"
-             y="732.53101"
-             x="318.1315"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               style="font-size:11.25px;fill:#808080"
-               y="732.53101"
-               x="318.1315"
-               sodipodi:role="line"
-               id="tspan6972">››› Diseño de sitios web de ventas de productos.</tspan><tspan
-               id="tspan6985"
-               style="font-size:11.25px;fill:#808080"
-               y="746.59351"
-               x="318.1315"
-               sodipodi:role="line">››› Diseño de boletines web y de correo.</tspan></text>
-        </g>
-      </g>
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke:none"
@@ -567,101 +229,105 @@
          x="470.09656"
          y="1030.3284">Juan Pablo Gómez A.</tspan></text>
     <g
-       id="g4453">
+       id="g4060">
       <text
          sodipodi:linespacing="125%"
          id="text7054"
-         y="569.86127"
+         y="601.14417"
          x="196.59431"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#808080;fill-opacity:1;stroke:none;"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#808080;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
          xml:space="preserve"><tspan
-           style="fill:#808080;fill-opacity:1;"
-           y="569.86127"
+           style="fill:#808080;fill-opacity:1"
+           y="601.14417"
            x="196.59431"
            sodipodi:role="line"
            id="tspan7058">Experiencia</tspan><tspan
            id="tspan6452"
-           style="fill:#808080;fill-opacity:1;"
-           y="599.86127"
+           style="fill:#808080;fill-opacity:1"
+           y="631.14417"
            x="196.59431"
            sodipodi:role="line">Académica</tspan></text>
       <g
-         id="g4375">
+         id="g3858">
         <g
-           transform="translate(13.531386,-125.10539)"
-           id="g6456">
+           id="g3756"
+           transform="translate(0,31.001677)">
+          <rect
+             y="551.90814"
+             x="217.81711"
+             height="13.561"
+             width="101.42857"
+             id="rect6466"
+             style="fill:#0099e8;fill-opacity:1;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text6468"
+             y="563.05438"
+             x="268.43903"
+             style="font-size:12.28166199px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               id="tspan6470"
+               y="563.05438"
+               x="268.43903"
+               sodipodi:role="line">Periodo ULA</tspan></text>
+        </g>
+        <g
+           id="g3664"
+           transform="translate(0,9.4326488)">
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:89.99999762%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             x="318.09711"
-             y="704.8313"
+             style="font-size:13.08800888px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="331.62308"
+             y="599.65454"
              id="text6458"
              sodipodi:linespacing="89.999998%"><tspan
                id="tspan6460"
                sodipodi:role="line"
-               x="318.09711"
-               y="704.8313">Desarrollador</tspan><tspan
+               x="331.62308"
+               y="599.65454">Desarrollador</tspan><tspan
                sodipodi:role="line"
-               x="318.09711"
-               y="717.2063"
+               x="331.62308"
+               y="611.43378"
                id="tspan4365">Gerente de Proyecto</tspan></text>
           <text
              sodipodi:linespacing="125%"
              id="text6462"
-             y="690.32672"
-             x="317.858"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
+             y="585.84827"
+             x="331.39548"
+             style="font-size:15.4676466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
              xml:space="preserve"><tspan
-               y="690.32672"
-               x="317.858"
+               y="585.84827"
+               x="331.39548"
                id="tspan6464"
                sodipodi:role="line">Asignatura: Ingeniería del software</tspan></text>
-          <rect
-             y="677.01355"
-             x="204.28572"
-             height="13.561"
-             width="101.42857"
-             id="rect6466"
-             style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text6468"
-             y="688.15979"
-             x="254.90764"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28166199px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               id="tspan6470"
-               y="688.15979"
-               x="254.90764"
-               sodipodi:role="line">Periodo ULA</tspan></text>
           <text
              sodipodi:linespacing="125%"
              id="text6472"
-             y="730.53101"
-             x="318.1315"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
+             y="624.11694"
+             x="331.65582"
+             style="font-size:10.70837116px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
              xml:space="preserve"><tspan
-               style="font-size:11.25px;fill:#808080"
-               y="730.53101"
-               x="318.1315"
+               style="font-size:10.70837116px;fill:#808080"
+               y="624.11694"
+               x="331.65582"
                sodipodi:role="line"
                id="tspan6482">››› Sistema web para el control de notas de <tspan
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto Light"
    id="tspan6517">la </tspan><tspan
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto Light"
    id="tspan6484">Escuela de Ingeniería de Sistemas</tspan></tspan><tspan
-               style="font-size:11.25px;fill:#808080"
-               y="744.59351"
-               x="318.1315"
+               style="font-size:10.70837116px;fill:#808080"
+               y="637.50238"
+               x="331.65582"
                sodipodi:role="line"
                id="tspan6496"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light'"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto Light"
    id="tspan6519">de la Universidad de Los Andes, </tspan>usando los lenguajes de programación <tspan
    style="font-style:italic"
    id="tspan6503">PHP</tspan></tspan><tspan
-               style="font-size:11.25px;fill:#808080"
-               y="758.65601"
-               x="318.1315"
+               style="font-size:10.70837116px;fill:#808080"
+               y="650.88788"
+               x="331.65582"
                sodipodi:role="line"
                id="tspan6499">y <tspan
    style="font-style:italic"
@@ -669,69 +335,76 @@
    style="font-style:italic"
    id="tspan6501">PostgreSQL</tspan>.</tspan></text>
         </g>
+      </g>
+      <g
+         id="g3840">
         <g
-           id="g6521"
-           transform="translate(13.531386,-28.093361)">
+           id="g3761"
+           transform="translate(0,24.43739)">
+          <rect
+             style="fill:#0099e8;fill-opacity:1;stroke:none"
+             id="rect6531"
+             width="101.42857"
+             height="13.561"
+             x="217.81711"
+             y="648.92017" />
+          <text
+             xml:space="preserve"
+             style="font-size:12.28166199px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="268.43903"
+             y="660.06641"
+             id="text6533"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="268.43903"
+               y="660.06641"
+               id="tspan6535">Periodo ULA</tspan></text>
+        </g>
+        <g
+           id="g3681"
+           transform="translate(0,6.9196448)">
           <text
              sodipodi:linespacing="89.999998%"
              id="text6523"
-             y="704.8313"
-             x="318.09711"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:89.99999762%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
+             y="691.99591"
+             x="331.62308"
+             style="font-size:13.08800888px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
              xml:space="preserve"><tspan
-               y="704.8313"
-               x="318.09711"
+               y="691.99591"
+               x="331.62308"
                sodipodi:role="line"
                id="tspan6525">Desarrollador</tspan><tspan
-               y="717.2063"
-               x="318.09711"
+               y="703.77515"
+               x="331.62308"
                sodipodi:role="line"
                id="tspan4367">Gerente de Proyecto</tspan></text>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             x="317.858"
-             y="690.32672"
+             style="font-size:15.4676466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
+             x="331.39548"
+             y="678.1897"
              id="text6527"
              sodipodi:linespacing="125%"><tspan
                sodipodi:role="line"
                id="tspan6529"
-               x="317.858"
-               y="690.32672">Asignatura: Bases de datos</tspan></text>
-          <rect
-             style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6531"
-             width="101.42857"
-             height="13.561"
-             x="204.28572"
-             y="677.01355" />
+               x="331.39548"
+               y="678.1897">Asignatura: Bases de datos</tspan></text>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28166199px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-             x="254.90764"
-             y="688.15979"
-             id="text6533"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               x="254.90764"
-               y="688.15979"
-               id="tspan6535">Periodo ULA</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
-             x="318.1315"
-             y="730.53101"
+             style="font-size:10.70837116px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="331.65582"
+             y="716.45831"
              id="text6537"
              sodipodi:linespacing="125%"><tspan
                id="tspan6551"
                sodipodi:role="line"
-               x="318.1315"
-               y="730.53101"
-               style="font-size:11.25px;fill:#808080">››› Sistema web para el registro de alumnas y personal del Colegio “La Presentación”,</tspan><tspan
+               x="331.65582"
+               y="716.45831"
+               style="font-size:10.70837116px;fill:#808080">››› Sistema web para el registro de alumnas y personal del Colegio “La Presentación”,</tspan><tspan
                sodipodi:role="line"
-               x="318.1315"
-               y="744.59351"
-               style="font-size:11.25px;fill:#808080"
+               x="331.65582"
+               y="729.84375"
+               style="font-size:10.70837116px;fill:#808080"
                id="tspan6570">usando el framework de desarrollo en <tspan
    style="font-style:italic"
    id="tspan6578">PHP</tspan>, <tspan
@@ -740,218 +413,672 @@
    style="font-style:italic"
    id="tspan6582">MySQL</tspan>.</tspan></text>
         </g>
+      </g>
+      <g
+         id="g3821">
         <g
-           transform="translate(13.531386,54.856131)"
-           id="g6584">
+           id="g3766"
+           transform="translate(0,17.930774)">
+          <rect
+             y="731.86969"
+             x="217.81711"
+             height="13.561"
+             width="101.42857"
+             id="rect6594"
+             style="fill:#0099e8;fill-opacity:1;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text6596"
+             y="743.01593"
+             x="268.43903"
+             style="font-size:12.28166199px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               id="tspan6598"
+               y="743.01593"
+               x="268.43903"
+               sodipodi:role="line">Periodo ULA</tspan></text>
+        </g>
+        <g
+           id="g3694"
+           transform="translate(0,5.0259301)">
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:89.99999762%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             x="318.09711"
-             y="704.8313"
+             style="font-size:13.08800888px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="331.62308"
+             y="770.95184"
              id="text6586"
              sodipodi:linespacing="89.999998%"><tspan
                id="tspan6588"
                sodipodi:role="line"
-               x="318.09711"
-               y="704.8313">Desarrollador</tspan><tspan
+               x="331.62308"
+               y="770.95184">Desarrollador</tspan><tspan
                sodipodi:role="line"
-               x="318.09711"
-               y="717.2063"
+               x="331.62308"
+               y="782.73108"
                id="tspan4369">Gerente de Proyecto</tspan></text>
           <text
              sodipodi:linespacing="125%"
              id="text6590"
-             y="690.32672"
-             x="317.858"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
+             y="757.14563"
+             x="331.39548"
+             style="font-size:15.4676466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
              xml:space="preserve"><tspan
-               y="690.32672"
-               x="317.858"
+               y="757.14563"
+               x="331.39548"
                id="tspan6592"
                sodipodi:role="line">Asignatura: Análisis y diseño de algoritmos</tspan></text>
-          <rect
-             y="677.01355"
-             x="204.28572"
-             height="13.561"
-             width="101.42857"
-             id="rect6594"
-             style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text6596"
-             y="688.15979"
-             x="254.90764"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28166199px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               id="tspan6598"
-               y="688.15979"
-               x="254.90764"
-               sodipodi:role="line">Periodo ULA</tspan></text>
           <text
              sodipodi:linespacing="125%"
              id="text6600"
-             y="730.53101"
-             x="318.1315"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
+             y="795.41425"
+             x="331.65582"
+             style="font-size:10.70837116px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
              xml:space="preserve"><tspan
-               style="font-size:11.25px;fill:#808080"
-               y="730.53101"
-               x="318.1315"
+               style="font-size:10.70837116px;fill:#808080"
+               y="795.41425"
+               x="331.65582"
                sodipodi:role="line"
                id="tspan6616">››› Programa de edición de grafos y aplicación de algoritmos deterministas clásicos</tspan><tspan
-               style="font-size:11.25px;fill:#808080"
-               y="744.59351"
-               x="318.1315"
+               style="font-size:10.70837116px;fill:#808080"
+               y="808.79968"
+               x="331.65582"
                sodipodi:role="line"
                id="tspan6622">sobre grafos euclidianos en dos dimensiones, interfaz realizada en <tspan
    style="font-style:italic"
    id="tspan6630">Qt</tspan>, grafos sobre</tspan><tspan
-               style="font-size:11.25px;fill:#808080"
-               y="758.69647"
-               x="318.1315"
+               style="font-size:10.70837116px;fill:#808080"
+               y="822.22369"
+               x="331.65582"
                sodipodi:role="line"
                id="tspan6624">la bibilioteca de estructuras de datos <tspan
    style="font-style:italic"
    id="tspan6626">Aleph-ω (א<tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
+   style="font-size:6.96053886px;baseline-shift:sub"
    id="tspan6628">ω</tspan>)</tspan>.</tspan></text>
         </g>
+      </g>
+      <g
+         id="g3804">
         <g
-           id="g6632"
-           transform="translate(13.531386,152.05144)">
+           id="g3771"
+           transform="translate(0,11.357618)">
+          <rect
+             style="fill:#0099e8;fill-opacity:1;stroke:none"
+             id="rect6642"
+             width="101.42857"
+             height="13.561"
+             x="217.81711"
+             y="829.065" />
+          <text
+             xml:space="preserve"
+             style="font-size:12.28166199px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-0.60000002px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="268.43903"
+             y="840.21124"
+             id="text6644"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="268.13904"
+               y="840.21124"
+               id="tspan6646">Periodo Bachillerato</tspan></text>
+        </g>
+        <g
+           id="g3708"
+           transform="translate(0,2.5129686)">
           <text
              sodipodi:linespacing="89.999998%"
              id="text6634"
-             y="704.8313"
-             x="318.09711"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:89.99999762%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
+             y="863.46771"
+             x="331.62308"
+             style="font-size:13.08800888px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
              xml:space="preserve"><tspan
-               y="704.8313"
-               x="318.09711"
+               y="863.46771"
+               x="331.62308"
                sodipodi:role="line"
                id="tspan6636">Desarrollador</tspan><tspan
-               y="717.2063"
-               x="318.09711"
+               y="875.24695"
+               x="331.62308"
                sodipodi:role="line"
                id="tspan4371">Co-autor</tspan></text>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             x="317.858"
-             y="690.32672"
+             style="font-size:15.4676466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
+             x="331.39548"
+             y="849.66144"
              id="text6638"
              sodipodi:linespacing="125%"><tspan
                sodipodi:role="line"
                id="tspan6640"
-               x="317.858"
-               y="690.32672">Asignatura: Proyecto de ciencias</tspan></text>
-          <rect
-             style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6642"
-             width="101.42857"
-             height="13.561"
-             x="204.28572"
-             y="677.01355" />
+               x="331.39548"
+               y="849.66144">Asignatura: Proyecto de ciencias</tspan></text>
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28166199px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:-0.60000002px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-             x="254.90764"
-             y="688.15979"
-             id="text6644"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               x="254.60764"
-               y="688.15979"
-               id="tspan6646">Periodo Bachillerato</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
-             x="318.1315"
-             y="730.53101"
+             style="font-size:10.70837116px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="331.65582"
+             y="887.93011"
              id="text6648"
              sodipodi:linespacing="125%"><tspan
                id="tspan6656"
                sodipodi:role="line"
-               x="318.1315"
-               y="730.53101"
-               style="font-size:11.25px;fill:#808080">››› Centro de descargas de software educativo del Colegio “Provincial Barinitas”,</tspan><tspan
+               x="331.65582"
+               y="887.93011"
+               style="font-size:10.70837116px;fill:#808080">››› Centro de descargas de software educativo del Colegio “Provincial Barinitas”,</tspan><tspan
                sodipodi:role="line"
-               x="318.1315"
-               y="744.59351"
-               style="font-size:11.25px;fill:#808080"
+               x="331.65582"
+               y="901.31555"
+               style="font-size:10.70837116px;fill:#808080"
                id="tspan6670">sistema elaborado en HTML básico, softwares educativos desarrollados por los</tspan><tspan
                sodipodi:role="line"
-               x="318.1315"
-               y="758.65601"
-               style="font-size:11.25px;fill:#808080"
+               x="331.65582"
+               y="914.70105"
+               style="font-size:10.70837116px;fill:#808080"
                id="tspan6678">mismos alumnos de la institución con la herramienta <tspan
    style="font-style:italic"
    id="tspan6680">Astound</tspan>.</tspan></text>
         </g>
+      </g>
+      <g
+         id="g3789">
         <g
-           transform="translate(13.531386,246.7783)"
-           id="g6682">
+           id="g3776"
+           transform="translate(0,4.2840432)">
+          <rect
+             y="923.79187"
+             x="217.81711"
+             height="13.561"
+             width="101.42857"
+             id="rect6692"
+             style="fill:#0099e8;fill-opacity:1;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text6694"
+             y="934.93811"
+             x="268.43903"
+             style="font-size:12.28166199px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:-0.60000002px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               id="tspan6696"
+               y="934.93811"
+               x="268.13904"
+               sodipodi:role="line">Periodo Bachillerato</tspan></text>
+        </g>
+        <g
+           id="g3720"
+           transform="translate(0,1.7447042e-6)">
           <text
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;line-height:89.99999762%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
-             x="318.09711"
-             y="704.8313"
+             style="font-size:13.08800888px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="331.62308"
+             y="953.63397"
              id="text6684"
              sodipodi:linespacing="89.999998%"><tspan
                id="tspan6686"
                sodipodi:role="line"
-               x="318.09711"
-               y="704.8313">Autor</tspan><tspan
+               x="331.62308"
+               y="953.63397">Autor</tspan><tspan
                sodipodi:role="line"
-               x="318.09711"
-               y="717.2063"
+               x="331.62308"
+               y="965.41321"
                id="tspan4373">Ponente</tspan></text>
           <text
              sodipodi:linespacing="125%"
              id="text6688"
-             y="690.32672"
-             x="317.858"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Arvo;-inkscape-font-specification:Arvo;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none"
+             y="939.8277"
+             x="331.39548"
+             style="font-size:15.4676466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
              xml:space="preserve"><tspan
-               y="690.32672"
-               x="317.858"
+               y="939.8277"
+               x="331.39548"
                id="tspan6690"
                sodipodi:role="line">Softwares educativos</tspan></text>
-          <rect
-             y="677.01355"
-             x="204.28572"
-             height="13.561"
-             width="101.42857"
-             id="rect6692"
-             style="opacity:1;fill:#0099e8;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text6694"
-             y="688.15979"
-             x="254.90764"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.28166199px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:-0.60000002px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               id="tspan6696"
-               y="688.15979"
-               x="254.60764"
-               sodipodi:role="line">Periodo Bachillerato</tspan></text>
           <text
              sodipodi:linespacing="125%"
              id="text6698"
-             y="730.53101"
-             x="318.1315"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none"
+             y="978.09637"
+             x="331.65582"
+             style="font-size:10.70837116px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
              xml:space="preserve"><tspan
-               style="font-size:11.25px;fill:#808080"
-               y="730.53101"
-               x="318.1315"
+               style="font-size:10.70837116px;fill:#808080"
+               y="978.09637"
+               x="331.65582"
                sodipodi:role="line"
                id="tspan6715">››› Presentación de softwares educativos elaborados en el aula, eventos organizados</tspan><tspan
-               style="font-size:11.25px;fill:#808080"
-               y="744.59351"
-               x="318.1315"
+               style="font-size:10.70837116px;fill:#808080"
+               y="991.48181"
+               x="331.65582"
                sodipodi:role="line"
                id="tspan6721">por la Zona Educativa del estado Barinas, en distintas localidades del estado.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3970">
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#808080;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
+         x="196.59431"
+         y="120.74499"
+         id="text6675"
+         sodipodi:linespacing="125%"><tspan
+           style="fill:#808080;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan6677"
+           x="196.59431"
+           y="120.74499">Experiencia</tspan><tspan
+           style="fill:#808080;fill-opacity:1"
+           id="tspan6987"
+           sodipodi:role="line"
+           x="196.59431"
+           y="150.745">Laboral</tspan></text>
+      <g
+         id="g3909">
+        <g
+           id="g3741"
+           transform="translate(0,51.936194)">
+          <rect
+             y="260.80905"
+             x="217.81711"
+             height="13.561"
+             width="101.42857"
+             id="rect6852"
+             style="fill:#0099e8;fill-opacity:1;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text6854"
+             y="271.95529"
+             x="268.43903"
+             style="font-size:12.28166199px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               id="tspan6856"
+               y="271.95529"
+               x="268.43903"
+               sodipodi:role="line">2012 - 2014</tspan></text>
+        </g>
+        <g
+           id="g3626"
+           transform="translate(0,16.352243)">
+          <text
+             xml:space="preserve"
+             style="font-size:13.08800888px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="331.62308"
+             y="320.66666"
+             id="text6842"
+             sodipodi:linespacing="89.999998%"><tspan
+               id="tspan6846"
+               sodipodi:role="line"
+               x="331.62308"
+               y="320.66666">Instructor de cursos</tspan><tspan
+               sodipodi:role="line"
+               x="331.62308"
+               y="332.44586"
+               id="tspan15391">Diseñador gráfico</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text6848"
+             y="308.7641"
+             x="331.39548"
+             style="font-size:15.4676466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
+             xml:space="preserve"><tspan
+               y="308.7641"
+               x="331.39548"
+               id="tspan6850"
+               sodipodi:role="line">Sánchez Solutions</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text6858"
+             y="345.401"
+             x="331.65582"
+             style="font-size:10.70837116px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               style="font-size:10.70837116px;fill:#808080"
+               id="tspan6868"
+               y="345.401"
+               x="331.65582"
+               sodipodi:role="line">››› Administración de sitios web en <tspan
+   style="font-size:10.70837116px;font-style:italic"
+   id="tspan14949">Joomla! CMS</tspan>.</tspan><tspan
+               id="tspan6886"
+               style="font-size:10.70837116px;fill:#808080"
+               y="358.78647"
+               x="331.65582"
+               sodipodi:role="line">››› Instrucción de cursos de animación 3D con <tspan
+   style="font-size:10.70837116px;font-style:italic"
+   id="tspan14951">Blender</tspan>.</tspan><tspan
+               id="tspan6888"
+               style="font-size:10.70837116px;fill:#808080"
+               y="372.17194"
+               x="331.65582"
+               sodipodi:role="line">››› Instrucción de cursos de diseño de páginas web (<tspan
+   style="font-size:10.70837116px;font-style:italic"
+   id="tspan14953">XHTML</tspan> y <tspan
+   style="font-size:10.70837116px;font-style:italic"
+   id="tspan14955">CSS</tspan> ).</tspan><tspan
+               id="tspan6890"
+               style="font-size:10.70837116px;fill:#808080"
+               y="385.5574"
+               x="331.65582"
+               sodipodi:role="line">››› Co-organización del <tspan
+   style="font-size:10.70837116px;font-style:italic"
+   id="tspan14957">Congreso Internacional de Software Libre 2013</tspan>.</tspan><tspan
+               id="tspan6892"
+               style="font-size:10.70837116px;fill:#808080"
+               y="398.94287"
+               x="331.65582"
+               sodipodi:role="line">››› Diseño gráfico web y de material P.O.P.</tspan><tspan
+               id="tspan6894"
+               style="font-size:10.70837116px;fill:#808080"
+               y="412.32831"
+               x="331.65582"
+               sodipodi:role="line">››› Producción de videos en 3D.</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3895">
+        <g
+           id="g3746"
+           transform="translate(0,43.533337)">
+          <rect
+             style="fill:#0099e8;fill-opacity:1;stroke:none"
+             id="rect6906"
+             width="101.42857"
+             height="13.561"
+             x="217.81711"
+             y="396.00912" />
+          <text
+             xml:space="preserve"
+             style="font-size:12.28166199px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="268.43903"
+             y="407.15536"
+             id="text6908"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="268.43903"
+               y="407.15536"
+               id="tspan6910">2011 - 2012</tspan></text>
+        </g>
+        <g
+           id="g3645"
+           transform="translate(0,13.839261)">
+          <text
+             sodipodi:linespacing="89.999998%"
+             id="text6898"
+             y="451.26126"
+             x="331.62308"
+             style="font-size:13.08800888px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               y="451.26126"
+               x="331.62308"
+               sodipodi:role="line"
+               id="tspan6900">Webmaster</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:15.4676466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
+             x="331.39548"
+             y="437.45499"
+             id="text6902"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan6904"
+               x="331.39548"
+               y="437.45499">Hobbysoft</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.70837116px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="331.65582"
+             y="464.30139"
+             id="text6912"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan6946"
+               sodipodi:role="line"
+               x="331.65582"
+               y="464.30139"
+               style="font-size:10.70837116px;fill:#808080">››› Edición y corrección de diversos sitios web comerciales.</tspan><tspan
+               id="tspan6948"
+               sodipodi:role="line"
+               x="331.65582"
+               y="477.68686"
+               style="font-size:10.70837116px;fill:#808080">››› Diagramación de sitios web.</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3880">
+        <g
+           id="g3751"
+           transform="translate(0,37.604504)">
+          <rect
+             y="466.95865"
+             x="217.81711"
+             height="13.561"
+             width="101.42857"
+             id="rect6960"
+             style="fill:#0099e8;fill-opacity:1;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text6962"
+             y="478.10489"
+             x="268.43903"
+             style="font-size:12.28166199px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               id="tspan6964"
+               y="478.10489"
+               x="268.43903"
+               sodipodi:role="line">2008 - 2012</tspan></text>
+        </g>
+        <g
+           id="g3654"
+           transform="translate(0,11.326291)">
+          <text
+             xml:space="preserve"
+             style="font-size:13.08800888px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="331.62308"
+             y="518.79492"
+             id="text6952"
+             sodipodi:linespacing="89.999998%"><tspan
+               id="tspan6974"
+               sodipodi:role="line"
+               x="331.62308"
+               y="518.79492">Webmaster</tspan><tspan
+               id="tspan6976"
+               sodipodi:role="line"
+               x="331.62308"
+               y="530.57416">Diseñador gráfico</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text6956"
+             y="504.98865"
+             x="331.39548"
+             style="font-size:15.4676466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
+             xml:space="preserve"><tspan
+               y="504.98865"
+               x="331.39548"
+               id="tspan6958"
+               sodipodi:role="line">Grand News Marketing</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text6966"
+             y="545.16101"
+             x="331.65582"
+             style="font-size:10.70837116px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               style="font-size:10.70837116px;fill:#808080"
+               y="545.16101"
+               x="331.65582"
+               sodipodi:role="line"
+               id="tspan6972">››› Diseño de sitios web de ventas de productos.</tspan><tspan
+               id="tspan6985"
+               style="font-size:10.70837116px;fill:#808080"
+               y="558.54645"
+               x="331.65582"
+               sodipodi:role="line">››› Diseño de boletines web y de correo.</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3956">
+        <g
+           id="g3736"
+           transform="translate(0,-2.8815491)">
+          <rect
+             style="fill:#0099e8;fill-opacity:1;stroke:none"
+             id="rect6689"
+             width="101.42857"
+             height="13.561"
+             x="217.81711"
+             y="107.54702" />
+          <text
+             xml:space="preserve"
+             style="font-size:12.28166199px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="268.43903"
+             y="118.69326"
+             id="text6691"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="268.43903"
+               y="118.69326"
+               id="tspan6693">2015</tspan></text>
+        </g>
+        <g
+           id="g3598"
+           transform="translate(0,30.000036)">
+          <text
+             sodipodi:linespacing="89.999998%"
+             id="text3582"
+             y="100.2235"
+             x="331.62308"
+             style="font-size:13.08800888px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               y="100.2235"
+               x="331.62308"
+               sodipodi:role="line"
+               id="tspan3586">Desarrollador Front-End</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:15.4676466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
+             x="331.39548"
+             y="86.417221"
+             id="text3588"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3590"
+               x="331.39548"
+               y="86.417221">Rhyno Sistemas</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.70837116px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="331.65582"
+             y="112.95251"
+             id="text3592"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="331.65582"
+               y="112.95251"
+               style="font-size:10.70837116px;fill:#808080"
+               id="tspan3596">››› Desarrollo front-end parcial de sistema CRM web, escrito en C#, con Framework</tspan><tspan
+               sodipodi:role="line"
+               x="331.65582"
+               y="126.33797"
+               style="font-size:10.70837116px;fill:#808080"
+               id="tspan3734">MVC .NET, y base de datos SQL Server.</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3933">
+        <g
+           id="g3608"
+           transform="translate(0,18.245972)">
+          <text
+             sodipodi:linespacing="89.999998%"
+             id="text6681"
+             y="176.68709"
+             x="331.62308"
+             style="font-size:13.08800888px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               id="tspan6683"
+               y="176.68709"
+               x="331.62308"
+               sodipodi:role="line">Analista de innovación y desarrollo</tspan><tspan
+               y="188.46629"
+               x="331.62308"
+               sodipodi:role="line"
+               id="tspan6804">Coordinador de adiestramiento</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:15.4676466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
+             x="331.39548"
+             y="162.88084"
+             id="text6685"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan6687"
+               x="331.39548"
+               y="162.88084">Open World Consultores</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.70837116px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             x="331.65582"
+             y="201.14949"
+             id="text6808"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="331.65582"
+               y="201.14949"
+               id="tspan6816"
+               style="font-size:10.70837116px;fill:#808080">››› Instalación de soluciones tecnológicas sobre servidores <tspan
+   style="font-size:10.70837116px;font-style:italic"
+   id="tspan14939">GNU/Linux</tspan>.</tspan><tspan
+               sodipodi:role="line"
+               x="331.65582"
+               y="214.53496"
+               id="tspan6818"
+               style="font-size:10.70837116px;fill:#808080">››› Soporte a clientes en el área de servidores GNU/Linux.</tspan><tspan
+               sodipodi:role="line"
+               x="331.65582"
+               y="227.92043"
+               style="font-size:10.70837116px;fill:#808080"
+               id="tspan15397">››› Soporte a clientes sobre la solución ESET para empresas.</tspan><tspan
+               sodipodi:role="line"
+               x="331.65582"
+               y="241.30588"
+               style="font-size:10.70837116px;fill:#808080"
+               id="tspan15395">››› Coordinación del área de adiestramiento.</tspan><tspan
+               sodipodi:role="line"
+               x="331.65582"
+               y="254.69135"
+               style="font-size:10.70837116px;fill:#808080"
+               id="tspan7150">››› Desarrollo de herramienta web para monitoreo de servicios.</tspan><tspan
+               sodipodi:role="line"
+               x="331.65582"
+               y="268.07681"
+               id="tspan6820"
+               style="font-size:10.70837116px;fill:#808080">››› Instrucción de cursos de <tspan
+   style="font-size:10.70837116px;font-style:italic"
+   id="tspan14941">LibreOffice</tspan> para usuarios finales y soportistas.</tspan><tspan
+               sodipodi:role="line"
+               x="331.65582"
+               y="281.46228"
+               id="tspan6822"
+               style="font-size:10.70837116px;fill:#808080">››› Instrucción de cursos de programación en <tspan
+   style="font-size:10.70837116px;font-style:italic"
+   id="tspan14943">PostgreSQL</tspan>.</tspan></text>
+        </g>
+        <g
+           id="g3781"
+           transform="translate(0,61.82801)">
+          <rect
+             y="107.54702"
+             x="217.81711"
+             height="13.561"
+             width="101.42857"
+             id="rect3783"
+             style="fill:#0099e8;fill-opacity:1;stroke:none" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3785"
+             y="118.69326"
+             x="268.43903"
+             style="font-size:12.28166199px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+             xml:space="preserve"><tspan
+               id="tspan3787"
+               y="118.69326"
+               x="268.43903"
+               sodipodi:role="line">2014 - 2015</tspan></text>
         </g>
       </g>
     </g>
